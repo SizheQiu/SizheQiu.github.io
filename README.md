@@ -1,4 +1,13 @@
 ### Hi there 👋
+### My research focus: Computational biology🖥️/Systems biology🔢/Microbiology🦠/Machine learning⚙️
+## Projects🌟:
+- [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
+- [LPiModulons🧬](https://github.com/SizheQiu/LPiModulons)
+- [MetaStLbCom🧫](https://github.com/SizheQiu/MetaStLbCom)
+- [YogAromaCLF🥛](https://github.com/SizheQiu/YogAromaCLF)
+## [Publications📑](https://scholar.google.com/citations?user=V43CQcsAAAAJ&hl=en)
+## Contact📫:
+
 
 <!--
 **SizheQiu/SizheQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
