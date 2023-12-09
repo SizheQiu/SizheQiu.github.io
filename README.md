@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 👋
 ### My research focus: Computational biology🖥️/Systems biology🔢/Microbiology🦠/Machine learning⚙️
 ## Projects🌟:
 - [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
