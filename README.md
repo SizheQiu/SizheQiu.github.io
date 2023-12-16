@@ -3,6 +3,8 @@
 ## Projects🌟:
 - [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
   - Deep learning-based prediction of temperature dependent enzyme kcat.
+- [IM-ML🦠](https://github.com/SBRG/IM-ML)
+  - Regulon inference of *E. coli* based on gene sequences.
 - [LPiModulons🧬](https://github.com/SizheQiu/LPiModulons)
   - Independent component analysis of *Lactobacillus plantarum* transcriptomes.
   - In-silico reconstruction of transcriptional regulatory network.
