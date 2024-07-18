@@ -17,6 +17,9 @@
 - [YogAromaCLF🥛](https://github.com/SizheQiu/YogAromaCLF)
   - Classification of yogurt aroma types based on flavoromics.
 ## [Publications📑](https://scholar.google.com/citations?user=V43CQcsAAAAJ&hl=en)
+## Education
+- PhD Engineering Science *University of Oxford*
+- BSMS Bioengineering *University of California, San Diego*
 ## Learning in progress🌱:
 - Generative AI
 - Bio-electrochemistry
