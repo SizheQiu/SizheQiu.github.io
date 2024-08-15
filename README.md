@@ -18,15 +18,13 @@
 - [MetaStLbCom🧫](https://github.com/SizheQiu/MetaStLbCom)
   - Metagenomic analysis of yogurt starter culture.
   - Dynamic metabolic modeling of major species in yogurt starter.
-- [YogAromaCLF🥛](https://github.com/SizheQiu/YogAromaCLF)
-  - Classification of yogurt aroma types based on flavoromics.
 ## [Publications📑](https://scholar.google.com/citations?user=V43CQcsAAAAJ&hl=en)
 ## Education
 - PhD Engineering Science *University of Oxford*
 - BSMS Bioengineering *University of California, San Diego*
 ## Learning in progress🌱:
 - Generative AI
-- Bio-electrochemistry
+- Database
 ## Contact📫:
 If you would like to discuss collaborations👯 on genome-scale metabolic modeling/metagenomic analysis/application of ML on biological problems,
 feel free to contact me: <sizhe.qiu@eng.ox.ac.uk>
