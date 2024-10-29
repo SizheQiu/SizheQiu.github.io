@@ -5,7 +5,7 @@
   - Deep learning-based prediction of temperature dependent enzyme kcat.
 - [Seq2Topt⚗️](https://github.com/SizheQiu/Seq2Topt)
   - Seq2Topt: A Sequence-Based Deep Learning Predictor of Enzyme Optimal Temperature.
-  - Seq2pHopt: protein sequence -> enzyme optimal pH
+  - Seq2pHopt-v1.0: protein sequence -> enzyme optimal pH
   - Seq2Tm: protein sequence -> enzyme melting temperature
 - [LbPtEPS🦠🧪](https://github.com/SizheQiu/LbPtEPS)
   - Multi-omics analysis of *L. plantarum* at different pH values.
