@@ -1,5 +1,5 @@
 ### 你好 👋
-### Keywords: Computational biology🖥️/Systems biology🔢/Microbiology🦠/Machine learning⚙️
+### Keywords: Computational Systems biology🔢/Microbiology🦠/Machine learning⚙️
 ## Projects🌟:
 - [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
   - Deep learning-based prediction of temperature dependent enzyme kcat.
