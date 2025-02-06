@@ -1,10 +1,12 @@
 ### 你好 👋
 ### Keywords: Computational Systems biology🔢/Microbiology🦠/Machine learning⚙️
 ## Projects🌟:
-- [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
-  - Deep learning-based prediction of temperature dependent enzyme kcat.
 - [Seq2Topt⚗️](https://github.com/SizheQiu/Seq2Topt)
   - Seq2Topt: protein sequence -> enzyme optimal temperature
+- [CatOpt⚗️](https://github.com/SizheQiu/CatOpt)
+  - CatOpt: protein sequence -> enzyme optimal pH
+- [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
+  - Deep learning-based prediction of temperature dependent enzyme kcat.
 - [LbPtEPS🦠🧪](https://github.com/SizheQiu/LbPtEPS)
   - Multi-omics analysis of *L. plantarum* at different pH values.
   - RPCFBA: regulatory proteome constrained flux balance analysis
