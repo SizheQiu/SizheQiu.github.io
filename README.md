@@ -9,7 +9,7 @@
   - Deep learning-based prediction of temperature dependent enzyme kcat.
 - [LbPtEPS🦠🧪](https://github.com/SizheQiu/LbPtEPS)
   - Multi-omics analysis of *L. plantarum* at different pH values.
-  - RPCFBA: regulatory proteome constrained flux balance analysis
+  - RPCFBA: regulatory proteome constrained flux balance analysis for primary and secondary metabolism.
 - [IM-ML🦠](https://github.com/SBRG/IM-ML)
   - Regulon inference of *E. coli* based on gene sequences.
 - [LPiModulons🧬](https://github.com/SizheQiu/LPiModulons)
