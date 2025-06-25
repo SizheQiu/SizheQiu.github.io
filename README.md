@@ -3,7 +3,7 @@
 ## Projects🌟:
 - [Seq2Topt⚗️](https://github.com/SizheQiu/Seq2Topt)
   - Seq2Topt: protein sequence -> enzyme optimal temperature
-- [CatOpt⚗️](https://github.com/SizheQiu/CatOpt)
+- [CatOpt(Seq2pHopt-2.0)⚗️](https://github.com/SizheQiu/CatOpt)
   - CatOpt: protein sequence -> enzyme optimal pH
 - [DLTKcat⚗️](https://github.com/SizheQiu/DLTKcat)
   - Deep learning-based prediction of temperature dependent enzyme kcat.
