@@ -18,10 +18,10 @@
 - [MetaStLbCom🧫](https://github.com/SizheQiu/MetaStLbCom)
   - Metagenomic analysis of yogurt starter culture.
   - Dynamic metabolic modeling of major species in yogurt starter.
-## [Publications📑](https://scholar.google.com/citations?user=V43CQcsAAAAJ&hl=en)<p align="left">
-## Education<p align="left">
+## <p align="left">[Publications📑](https://scholar.google.com/citations?user=V43CQcsAAAAJ&hl=en)</p>
+## <p align="left">Education</p>
 - PhD Engineering Science *University of Oxford*
 - BSMS Bioengineering *University of California, San Diego*
-## Contact📫<p align="left">
+## <p align="left">Contact📫</p>
 If you would like to discuss collaborations👯 on genome-scale metabolic modeling/metagenomic analysis/application of ML on biological problems,
 feel free to contact me: <sizhe.qiu@eng.ox.ac.uk>
