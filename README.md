@@ -1,4 +1,4 @@
-### 你好 👋
+# Sizhe Qiu (裘思哲in Chinese)
 ### Keywords: Computational Systems biology🔢/Microbiology🦠/Machine learning⚙️
 ## Projects🌟:
 - [Seq2Topt⚗️](https://github.com/SizheQiu/Seq2Topt)
