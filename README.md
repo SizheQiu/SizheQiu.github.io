@@ -10,6 +10,8 @@
 - [LbPtEPS🦠🧪](https://github.com/SizheQiu/LbPtEPS)
   - Multi-omics analysis of *L. plantarum* at different pH values.
   - RPCFBA: regulatory proteome constrained flux balance analysis for primary and secondary metabolism.
+- [PigGEM2025🐷](https://github.com/SizheQiu/PigGEM2025)
+  - Proteome constrained metabolic modeling of Sus scrofa (Pig) muscle stem cells for cultured meat production.
 - [IM-ML🦠](https://github.com/SBRG/IM-ML)
   - Regulon inference of *E. coli* based on gene sequences.
 - [LPiModulons🧬](https://github.com/SizheQiu/LPiModulons)
